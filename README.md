@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html>
   <body>
-
-    <iframe src="https://drive.google.com/file/d/1f3YxztfXcQjDvbBr2XKqcLr_HEyBniM3/preview" ></iframe>
-
-    <!--aloow full screen add tag -->
-
-  <iframe allowfullscreen="allowfullscreen" src="your_page_url/preview" ></iframe>
-
+    <h3>Read the Wiki for info.</h3>
   </body>
 </html>
